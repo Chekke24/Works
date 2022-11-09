@@ -1235,14 +1235,5 @@
       "price": 799
     }
   ],
-  "cart": [
-    {
-      "name": "Gillete",
-      "description": "Espuma de afeitar Match 3 sensitive",
-      "id": 1668027203080,
-      "image": "https://i.postimg.cc/vH8fKzDH/espuma-de-afeitar.webp",
-      "price": 489,
-      "quantity": 1
-    }
-  ]
+  "cart": []
 }
